@@ -49,18 +49,19 @@ I'm R Prasantha, a **Software Engineering Student** in my second year, deeply pa
 - **Database Management**: Building expertise in SQL and NoSQL databases to manage data efficiently for various applications.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Prasantha123123&color=blueviolet&style=flat-square)
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasantha123123&show_icons=true&locale=en&layout=compact" alt="Prasantha123123" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Prasantha123123&show_icons=true&locale=en" alt="Prasantha123123" width="500px" /></p> <br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasantha123123&" alt="Prasantha123123" width="500px" /></p>
 
 ### 🎯 Fun Facts & Hobbies
 - 💡 I love brainstorming and working on unique tech ideas that solve real-world problems.
 - 📚 Besides coding, I'm an avid reader, constantly on the lookout for new ways to grow personally and professionally.
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Prasantha123123&color=blueviolet&style=flat-square)
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasantha123123&show_icons=true&locale=en&layout=compact" alt="Prasantha123123" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Prasantha123123&show_icons=true&locale=en" alt="Prasantha123123" width="500px" /></p> <br/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasantha123123&" alt="Prasantha123123" width="500px" /></p>
+
+---
 ### 📫 Get in Touch!
 Whether it’s about collaboration, tech discussions, or just a friendly chat, feel free to reach out:
 - **LinkedIn**: [Prasantha Raman](https://www.linkedin.com/in/prasantha-raman-8788aa262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
