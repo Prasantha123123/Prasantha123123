@@ -41,7 +41,7 @@ I'm R Prasantha, a **Software Engineering Student** in my second year, deeply pa
 
 ### 📫 Get in Touch!
 Whether it’s about collaboration, tech discussions, or just a friendly chat, feel free to reach out:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
+- **LinkedIn**: [Prasantha Raman](https://www.linkedin.com/in/yourlinkedinprofile)
 - **GitHub**: [@YourUsername](https://github.com/YourUsername)
 
 ---
