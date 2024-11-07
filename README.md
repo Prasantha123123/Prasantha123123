@@ -1,7 +1,7 @@
 # 👋 Hello, I'm R Prasantha!
 
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow%20me&style=social)](https://github.com/YourUsername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![GitHub followers](https://img.shields.io/github/followers/Prasantha123123?label=Follow%20me&style=social)](https://github.com/Prasantha123123)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasantha-raman-8788aa262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -16,9 +16,9 @@ I'm R Prasantha, a **Software Engineering Student** in my second year, deeply pa
 | **Student Management System**         | A comprehensive Java-based application to manage student records, track scores, and calculate averages. |
 | **Fingerprint-Based Attendance System** | A biometric attendance system that uses fingerprint scanning for secure and efficient attendance tracking. |
 | **Gym Management System**             | A robust system for managing memberships, tracking workouts, and streamlining gym operations.    |
+| **SMS (Student Management System)**   | A Java-based project for managing student data including enrollments, grades, and progress tracking. |
 
 ---
-
 
 ## 🛠️ Tech Arsenal
 
@@ -42,7 +42,6 @@ I'm R Prasantha, a **Software Engineering Student** in my second year, deeply pa
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-
 ---
 
 ### 📚 Currently Learning & Exploring
@@ -51,12 +50,11 @@ I'm R Prasantha, a **Software Engineering Student** in my second year, deeply pa
 - **Database Management**: Building expertise in SQL and NoSQL databases to manage data efficiently for various applications.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Prasantha123123&color=blueviolet&style=flat-square)
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasantha123123&show_icons=true&locale=en&layout=compact" alt="Prasantha123123" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Prasantha123123&show_icons=true&locale=en" alt="Prasantha123123" width="500px" /></p> <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasantha123123&" alt="Prasantha123123" width="500px" /></p>
-
 
 ### 🎯 Fun Facts & Hobbies
 - 💡 I love brainstorming and working on unique tech ideas that solve real-world problems.
@@ -66,9 +64,4 @@ I'm R Prasantha, a **Software Engineering Student** in my second year, deeply pa
 
 ### 📫 Get in Touch!
 Whether it’s about collaboration, tech discussions, or just a friendly chat, feel free to reach out:
-- **LinkedIn**: [Prasantha Raman]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/prasantha-raman-8788aa262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-
-
----
-
-
+- **LinkedIn**: [Prasantha Raman](https://www.linkedin.com/in/prasantha-raman-8788aa262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
