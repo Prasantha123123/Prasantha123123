@@ -19,7 +19,7 @@ I'm R Prasantha, a **Software Engineering Student** in my second year, deeply pa
 
 ---
 
-### 🛠️ Tech Stack
+
 ## 🛠️ Tech Arsenal
 
 ### Core Technologies
