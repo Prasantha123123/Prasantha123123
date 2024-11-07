@@ -1,54 +1,49 @@
-# 🌟 **Hello, World! I'm [Your Name]** 🌟
+# 👋 Hello, I'm R Prasantha!
 
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow%20me&style=social)](https://github.com/YourUsername) 
+[![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow%20me&style=social)](https://github.com/YourUsername)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
 
 ---
 
-### 👋 Welcome to My GitHub Repository!
-I'm [Your Name], a **Software Engineering Student** currently in my second year, exploring the fascinating world of **coding** and **problem-solving**. With experience in **Java** projects and a keen interest in **open-source development**, I'm always eager to collaborate and innovate.
-
-#### 🎓 About Me:
-- **Supervisor at Spectra Logistic Company** - Managing and optimizing logistics, loading, unloading, and stock management.
-- **Previous Experience**: Worked as a **Second Officer** in a finance company, specializing in **gold loan operations**.
-- **Software Projects**: Focused on testing, automation, and RESTful services using Java and Ant build automation.
+### 🎉 Welcome to My GitHub World!
+I'm R Prasantha, a **Software Engineering Student** in my second year, deeply passionate about **coding**, **problem-solving**, and **innovative software projects**. Driven by curiosity, I continuously explore new tech fields and work on exciting projects to expand my skills.
 
 ---
 
-### 🚀 My Projects
-| Project Name             | Description                                                                                                                                                          |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Student Management System** | A Java-based application with CRUD functionalities and integrated test cases to manage student records, courses, and score averages.                                      |
-| **Movie Recommendation Service**  | A RESTful service to suggest movies based on user preferences, with a counter to track recommendation frequency.                                                           |
-| **Prolog Family Tree**   | A logic-based program that defines relationships and family facts in Prolog, aimed at showcasing skills in logic programming.                                                 |
-| **E-Business Design Report** | An analytical report on e-business system architecture, security designs, and customer-centric usability, detailing 20 pages of insights into modern digital commerce.       |
+### 💻 Featured Projects
+| Project Name                          | Description                                                                                      |
+|---------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Student Management System**         | A comprehensive Java-based application to manage student records, track scores, and calculate averages. |
+| **Fingerprint-Based Attendance System** | A biometric attendance system that uses fingerprint scanning for secure and efficient attendance tracking. |
+| **Gym Management System**             | A robust system for managing memberships, tracking workouts, and streamlining gym operations.    |
 
 ---
 
-### 🛠️ My Tech Stack
-- **Languages**: Java, Prolog, SQL
-- **Frameworks & Tools**: REST APIs, JUnit, Apache Ant, NetBeans IDE
-- **Database Management**: MySQL, DB2
-- **Software Engineering Practices**: Agile, JIRA task management, Git version control
+### 🛠️ Tech Stack
+- **Languages**: Java, C, C++, Python
+- **Databases**: MySQL, MongoDB
+- **Web Development**: HTML, CSS, JavaScript
 
 ---
 
-### 📘 Current Studies & Interests
-- **Software Architecture and Design Patterns**: Learning architectural paradigms, design principles, and best practices in building scalable applications.
-- **Human-Computer Interaction (HCI)**: Focusing on user-centered design, participatory design, and UX research methods under the guidance of Ms. Chathurangi Dhanushika Weerasinghe.
-- **Open Source Development**: Actively researching and contributing to open-source software, with an emphasis on collaborative development.
+### 📚 Currently Learning & Exploring
+- **Advanced Java Concepts**: Diving deeper into Java, including data structures, multithreading, and web services.
+- **Web Development**: Enhancing front-end and back-end skills to create more dynamic, responsive web applications.
+- **Database Management**: Building expertise in SQL and NoSQL databases to manage data efficiently for various applications.
 
 ---
 
-### 📚 Ongoing Research
-- **Critical Evaluation of Urban Community Web Portals**: Currently writing a comprehensive 2,000-word essay to evaluate web portal development focused on fostering positive values in urban areas. Includes analysis of funding strategies, revenue models, and risk management.
+### 🎯 Fun Facts & Hobbies
+- 💡 I love brainstorming and working on unique tech ideas that solve real-world problems.
+- 📚 Besides coding, I'm an avid reader, constantly on the lookout for new ways to grow personally and professionally.
 
 ---
 
-### ✨ Let's Connect!
-I'm always open to learning, collaboration, and exciting opportunities! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or email at [youremail@example.com].
+### 📫 Get in Touch!
+Whether it’s about collaboration, tech discussions, or just a friendly chat, feel free to reach out:
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
+- **GitHub**: [@YourUsername](https://github.com/YourUsername)
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square)
-
