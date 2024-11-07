@@ -16,7 +16,6 @@ I'm R Prasantha, a **Software Engineering Student** in my second year, deeply pa
 | **Student Management System**         | A comprehensive Java-based application to manage student records, track scores, and calculate averages. |
 | **Fingerprint-Based Attendance System** | A biometric attendance system that uses fingerprint scanning for secure and efficient attendance tracking. |
 | **Gym Management System**             | A robust system for managing memberships, tracking workouts, and streamlining gym operations.    |
-| **SMS (Student Management System)**   | A Java-based project for managing student data including enrollments, grades, and progress tracking. |
 
 ---
 
