@@ -3,12 +3,10 @@
 # 🚀 R Prasantha | Full-Stack Developer & AI Enthusiast
 
 ### 💡 Third-Year Software Engineering Student | Experience In React & Laravel  | Innovation Driver
-
 [![GitHub followers](https://img.shields.io/github/followers/Prasantha123123?label=Follow%20me&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Prasantha123123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasantha-raman-8788aa262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Prasantha123123&color=0891b2&style=for-the-badge&label=Profile+Views)](https://github.com/Prasantha123123)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React+%26+Laravel;AI+Enthusiast+%7C+Software+Engineering+Student;Building+Tomorrow's+Digital+Solutions;Passionate+About+Innovation+%26+Clean+Code" alt="Typing Animation" />
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Live%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasantha.netlify.app)<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React+%26+Laravel;AI+Enthusiast+%7C+Software+Engineering+Student;Building+Tomorrow's+Digital+Solutions;Passionate+About+Innovation+%26+Clean+Code" alt="Typing Animation" />
 
 </div>
 
@@ -188,10 +186,10 @@ I believe in the power of technology to solve real-world problems and create mea
 
 ### 💬 *Open for Exciting Opportunities & Collaborations*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasantha-raman-8788aa262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasantha123123)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
+[![LinkedIn - R Prasantha](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasantha-raman-8788aa262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub - Follow R Prasantha](https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasantha123123)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prasantha.netlify.app)
+[![Email Contact](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasantharaman2002@gmail.com)
 ### 🚀 *I'm Available For:*
 - 💼 *Freelance Projects* - Full-stack web development
 - 🤝 *Open Source Collaboration* - Contributing to meaningful projects  
