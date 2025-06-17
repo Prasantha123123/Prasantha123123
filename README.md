@@ -85,9 +85,9 @@ Passionate about creating innovative solutions that make a difference
 
 | 🎯 Project | 📝 Description | 🛠 Tech Stack | 🔗 Links |
 |------------|----------------|----------------|----------|
-| *🤖 AI-Based Resume Analyzer* | Intelligent resume analysis system using machine learning to provide insights, scoring, and recommendations for job seekers | Python AI/ML NLP React Flask | [Demo](#) \| [Code](#) |
-| *💼 Personal Web Portfolio* | Modern, responsive portfolio website showcasing projects and skills with smooth animations and interactive elements | React.js CSS3 JavaScript Responsive Design | [Live Site](#) \| [Code](#) |
-| *🎓 Student Management System* | Comprehensive Java application for educational institutions to manage student records, grades, and academic performance | Java MySQL Swing JDBC | [Code](#) |
+| *🤖 AI-Based Resume Analyzer* | Intelligent resume analysis system using machine learning to provide insights, scoring, and recommendations for job seekers | Python AI/ML NLP React Flask | [Demo](https://aipoweredresumeanalyzer.netlify.app/) \| [Code](https://github.com/Prasantha123123/AiPoweredResumeAnalyzer) |
+| *💼 Personal Web Portfolio* | Modern, responsive portfolio website showcasing projects and skills with smooth animations and interactive elements | React.js CSS3 JavaScript Responsive Design | [Live Site](https://prasantha.netlify.app/) \| [Code](https://github.com/Prasantha123123/WebPortfolioPrasantha) |
+| *🎓 Student Management System* | Comprehensive Java application for educational institutions to manage student records, grades, and academic performance | Java MySQL Swing JDBC | [Code](https://github.com/Prasantha123123/Student-Management-System) |
 | *👆 Biometric Attendance System* | Secure fingerprint-based attendance tracking system with real-time monitoring and reporting capabilities | Java Biometric APIs Database Security | [Code](#) |
 
 ---
