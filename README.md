@@ -2,7 +2,7 @@
 
 # 🚀 R Prasantha | Full-Stack Developer & AI Enthusiast
 
-### 💡 Third-Year Software Engineering Student | React & Laravel Expert | Innovation Driver
+### 💡 Third-Year Software Engineering Student | Experiance In React & Laravel  | Innovation Driver
 
 [![GitHub followers](https://img.shields.io/github/followers/Prasantha123123?label=Follow%20me&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Prasantha123123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasantha-raman-8788aa262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
