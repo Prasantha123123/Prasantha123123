@@ -20,7 +20,7 @@ javascript
 const prasantha = {
     title: "Full-Stack Software Developer",
     education: "Third-Year Software Engineering Student",
-    location: "Srilanka 🇮🇳",
+    location: "Sri Lanka 🇱🇰",
     specialization: ["React.js", "Laravel", "AI/ML Integration"],
     currentFocus: "Building scalable web applications with modern tech stack",
     interests: ["Artificial Intelligence", "Web Development", "UI/UX Design"],
@@ -119,37 +119,27 @@ Passionate about creating innovative solutions that make a difference
 
 ### 📚 *Current Focus Areas & Future Goals*
 
-mermaid
-graph TB
-    A[🎯 Current Learning Path] --> B[Advanced React Ecosystem]
-    A --> C[Laravel Mastery]
-    A --> D[AI/ML Integration]
-    A --> E[Cloud Technologies]
-    
-    B --> F[Next.js]
-    B --> G[Redux Toolkit]
-    B --> H[React Native]
-    
-    C --> I[Laravel APIs]
-    C --> J[Microservices]
-    C --> K[Testing]
-    
-    D --> L[TensorFlow]
-    D --> M[Computer Vision]
-    D --> N[NLP]
-    
-    E --> O[AWS]
-    E --> P[Docker]
-    E --> Q[Kubernetes]
-    
-    style A fill:#58A6FF,stroke:#1F6FEB,stroke-width:3px,color:#fff
-    style B fill:#FF6B6B,stroke:#E55353,stroke-width:2px,color:#fff
-    style C fill:#4ECDC4,stroke:#45B7B8,stroke-width:2px,color:#fff
-    style D fill:#45B7D1,stroke:#3498DB,stroke-width:2px,color:#fff
-    style E fill:#96CEB4,stroke:#6C5CE7,stroke-width:2px,color:#fff
-
-
 </div>
+
+
+🎯 Current Learning Path
+├── 🎨 Advanced React Ecosystem
+│   ├── Next.js Framework
+│   ├── Redux Toolkit
+│   └── React Native
+├── ⚙ Laravel Mastery
+│   ├── Laravel APIs
+│   ├── Microservices
+│   └── Testing
+├── 🤖 AI/ML Integration
+│   ├── TensorFlow
+│   ├── Computer Vision
+│   └── Natural Language Processing
+└── ☁ Cloud Technologies
+    ├── AWS Services
+    ├── Docker Containers
+    └── Kubernetes
+
 
 ### 🚀 *2024 Development Roadmap*
 
