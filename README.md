@@ -1,25 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=250&section=header&text=R%20PRASANTHA&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Innovation%20Driver&descAlignY=55&descSize=16">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=250&section=header&text=R%20PRASANTHA&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast%20|%20Innovation%20Driver&descAlignY=55&descSize=16">
-</picture>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=R%20PRASANTHA&fontSize=90&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovation%20Driver&descAlignY=55&descSize=20&animation=twinkling)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Tomorrow's+Digital+Solutions+%F0%9F%9A%80;React+%2B+Laravel+%2B+AI%2FML+Specialist+%F0%9F%92%BB;Transforming+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Tomorrow's+Digital+Solutions+%F0%9F%9A%80;React+%2B+Laravel+%2B+AI%2FML+Specialist+%F0%9F%92%BB;Transforming+Ideas+into+Reality+%E2%9C%A8" alt="Typing SVG" />
 
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Prasantha123123">
-    <img src="https://komarev.com/ghpvc/?username=Prasantha123123&label=PROFILE%20EXPLORERS&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Prasantha123123?tab=followers">
-    <img src="https://img.shields.io/github/followers/Prasantha123123?label=CODE%20COMPANIONS&style=for-the-badge&color=36BCF7&labelColor=0D1117" alt="GitHub Followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/prasantha-raman-8788aa262">
-    <img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Prasantha123123&label=Profile%20Explorers&color=36BCF7&style=for-the-badge)](https://github.com/Prasantha123123)
+[![GitHub followers](https://img.shields.io/github/followers/Prasantha123123?label=Code%20Companions&style=for-the-badge&color=36BCF7&labelColor=0D1117)](https://github.com/Prasantha123123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasantha-raman-8788aa262)
 
 </div>
 
@@ -28,10 +15,6 @@
 ## 🎭 About Me | The Developer Behind The Code
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<details open>
-<summary><b>👨‍💻 Click to view my Developer Profile</b></summary>
-<br>
 
 ```typescript
 interface Developer {
@@ -67,8 +50,6 @@ const prasantha: Developer = {
 
 console.log("Code with purpose 🚀");
 ```
-
-</details>
 
 <br clear="right"/>
 
